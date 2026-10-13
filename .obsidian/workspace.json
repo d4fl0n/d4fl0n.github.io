@@ -11,12 +11,14 @@
             "id": "0012b499eab79d23",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/img/apiroot.png"
+                "file": "_tabs/about.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "apiroot"
+              "icon": "lucide-file",
+              "title": "about"
             }
           }
         ]
@@ -97,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/img/apiroot.png",
+                "file": "_tabs/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/img/apiroot.png",
+                "file": "_tabs/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -159,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/img/apiroot.png",
+                "file": "_tabs/about.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,9 +190,9 @@
   },
   "active": "0012b499eab79d23",
   "lastOpenFiles": [
-    "_posts/dockerlabs/2026-10-13-apiroot.md",
-    "_posts/dockerlabs/2026-10-13-apiroot.md",
     "assets/img/apiroot.png",
+    "_posts/dockerlabs/2026-10-13-apiroot.md",
+    "_posts/dockerlabs/2026-10-13-apiroot.md",
     "_tabs/about.md",
     "_posts/dockerlabs",
     "assets/img",
