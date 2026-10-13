@@ -389,7 +389,16 @@ nous allons essayer de lire les flags
 
 
 ```bash
-root@cdcad12541bb:/home/deploy# cat /home/deploy/flag-stage3.txt /root/flag-root.txt 
-stage3_ssh_user_land_cdcad12541bb
+root@cdcad12541bb:/home/roommate# find / -name 'flag*.txt' 2>/dev/null
+/root/flag-root.txt
+/home/deploy/flag-stage3.txt
+/opt/decompile/api/flag-stage1.txt
+/opt/decompile/api/flag-stage2.txt
+root@cdcad12541bb:/home/roommate# find / -name 'flag*.txt' 2>/dev/null | xargs cat
 FLAG{stage4_root_cdcad12541bb_1791894820}
+stage3_ssh_user_land_cdcad12541bb
+stage1_apk_inside_buildconfig
+stage2_api_key_accepted_1791894820
 ```
+
+
