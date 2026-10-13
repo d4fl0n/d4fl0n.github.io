@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/dockerlabs/ApiRoot.md",
+                "file": "_posts/dockerlabs/2026-10-13-apiroot.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ApiRoot"
+              "title": "2026-10-13-apiroot.md"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/dockerlabs/ApiRoot.md",
+                "file": "_posts/dockerlabs/2026-10-13-apiroot.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/dockerlabs/ApiRoot.md",
+                "file": "_posts/dockerlabs/2026-10-13-apiroot.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/dockerlabs/ApiRoot.md",
+                "file": "_posts/dockerlabs/2026-10-13-apiroot.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,10 +188,11 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "0012b499eab79d23",
+  "active": "f453fe3167ff5ae2",
   "lastOpenFiles": [
     "assets/img/apiroot.png",
-    "_posts/dockerlabs/ApiRoot.md",
+    "_tabs/about.md",
+    "_posts/dockerlabs/2026-10-13-apiroot.md.md",
     "_posts/dockerlabs",
     "assets/img",
     "Sans titre"
