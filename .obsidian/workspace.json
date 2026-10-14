@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/dockerlabs/2026-10-13-decompile.md",
+                "file": "_posts/HackMyVm/2026-10-14-pulse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-13-decompile"
+              "title": "2026-10-14-pulse"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
               "title": "Signets"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/dockerlabs/2026-10-13-decompile.md",
+                "file": "_posts/HackMyVm/2026-10-14-pulse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/dockerlabs/2026-10-13-decompile.md",
+                "file": "_posts/HackMyVm/2026-10-14-pulse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/dockerlabs/2026-10-13-decompile.md",
+                "file": "_posts/HackMyVm/2026-10-14-pulse.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,16 +191,25 @@
   },
   "active": "0012b499eab79d23",
   "lastOpenFiles": [
-    "_posts/dockerlabs/2026-10-13-acme.md",
+    "assets/img/pulse.png",
+    "assets/img/pulse-id.png",
+    "assets/img/pulse-passwd.png",
+    "assets/img/pulse-ssti.png",
+    "assets/img/pulse-alert.png",
+    "assets/img/pulse-dia.png",
+    "assets/img/pulse-git.png",
+    "assets/img/pulse-dev.png",
+    "assets/img/pulse-web.png",
+    "_posts/dockerlabs/2026-10-13-Flasky.md",
+    "_posts/HackMyVm/2026-10-14-pulse.md",
+    "_posts/HackMyVm",
+    "assets/img/flasky.png",
+    "_posts/dockerlabs/flasky.png",
     "_posts/dockerlabs/2026-10-13-decompile.md",
-    "assets/img/decompile-web.png",
-    "assets/img/decompile.png",
+    "_posts/dockerlabs/2026-10-13-acme.md",
     "_tabs/about.md",
-    "assets/img/acme.png",
-    "assets/img/acme-web.png",
     "_posts/dockerlabs/2026-10-13-bigbank.md",
     "_posts/dockerlabs",
-    "assets/img/apiroot.png",
     "_posts/dockerlabs/2026-10-13-apiroot.md",
     "_posts/dockerlabs/2026-10-13-apiroot.md",
     "_posts/dockerlabs",
