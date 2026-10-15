@@ -38,7 +38,10 @@ Ce blog rassemble mes **writeups de CTF** et mes notes techniques : énumératio
 
 | **ISO/IEC 27005 Risk Manager** | Appréciation et traitement des risques liés à la sécurité de l'information |
 
-  
+## Mes Certifications
+
+[![BreachLab Ghost]](https://breachlab.org/u/d4fl0n/certificate/ghost)
+
 
 ---
 
