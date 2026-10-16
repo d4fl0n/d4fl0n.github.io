@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/HackMyVm/2026-10-15-sieste.md",
+                "file": "_posts/dockerlabs/2026-10-16-pressenter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-15-sieste"
+              "title": "2026-10-16-pressenter"
             }
           }
         ]
@@ -190,24 +190,26 @@
   },
   "active": "b126a994349e08bc",
   "lastOpenFiles": [
+    "assets/img/pressenter.png",
+    "assets/img/pressenter-my.png",
+    "assets/img/pressenter-user.png",
+    "assets/img/pressenter-ed.png",
+    "assets/img/pressenter-wp.png",
+    "assets/img/pressenter-vhost.png",
+    "assets/img/pressenter-web.png",
+    "_posts/HackMyVm/2026-10-15-grenade.md",
+    "_posts/dockerlabs/2026-10-16-pressenter.md",
+    "_posts/HackMyVm/2026-10-15-sieste.md",
     "_posts/dockerlabs/2026-10-15-ChocoPing.md",
     "assets/img/chicoping.png",
     "_posts/dockerlabs/2026-10-13-decompile.md",
-    "_posts/HackMyVm/2026-10-15-sieste.md",
     "_posts/dockerlabs/2026-10-13-acme.md",
-    "_posts/HackMyVm/2026-10-15-grenade.md",
     "_posts/HackMyVm/2026-10-14-pulse.md",
     "_posts/HackMyVm/2026-10-14-echo.md",
     "_posts/dockerlabs/2026-10-13-Flasky.md",
     "assets/img/sieste.png",
     "assets/img/sieste-id.png",
     "assets/img/sieste-das.png",
-    "assets/img/sieste-gop.png",
-    "assets/img/sieste-post.png",
-    "assets/img/sieste-reg.png",
-    "assets/img/sieste-api.png",
-    "assets/img/sieste-tcp.png",
-    "assets/img/sieste-passwd.png",
     "_posts/HackMyVm",
     "_tabs/about.md",
     "_posts/dockerlabs/2026-10-13-bigbank.md",
