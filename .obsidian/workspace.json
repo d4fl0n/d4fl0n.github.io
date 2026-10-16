@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/dockerlabs/2026-10-16-pressenter.md",
+                "file": "_posts/OSINT/2026-10-16-sofia-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-16-pressenter"
+              "title": "2026-10-16-sofia-01"
             }
           }
         ]
@@ -190,26 +190,28 @@
   },
   "active": "b126a994349e08bc",
   "lastOpenFiles": [
+    "assets/img/kiffa-r4.png",
+    "assets/img/kiffa-r3.png",
+    "assets/img/kiffa-r2.png",
+    "assets/img/kiffa-r1.png",
+    "assets/img/kiffa-r.png",
+    "assets/img/kiffa-p.png",
+    "assets/img/kiffa.png",
+    "assets/img/sofia-001-2.png",
+    "_posts/dockerlabs/2026-10-16-pressenter.md",
+    "_posts/OSINT/2026-10-16-sofia-01.md",
+    "_posts/OSINT",
     "assets/img/pressenter.png",
     "assets/img/pressenter-my.png",
     "assets/img/pressenter-user.png",
-    "assets/img/pressenter-ed.png",
-    "assets/img/pressenter-wp.png",
-    "assets/img/pressenter-vhost.png",
-    "assets/img/pressenter-web.png",
     "_posts/HackMyVm/2026-10-15-grenade.md",
-    "_posts/dockerlabs/2026-10-16-pressenter.md",
     "_posts/HackMyVm/2026-10-15-sieste.md",
     "_posts/dockerlabs/2026-10-15-ChocoPing.md",
-    "assets/img/chicoping.png",
     "_posts/dockerlabs/2026-10-13-decompile.md",
     "_posts/dockerlabs/2026-10-13-acme.md",
     "_posts/HackMyVm/2026-10-14-pulse.md",
     "_posts/HackMyVm/2026-10-14-echo.md",
     "_posts/dockerlabs/2026-10-13-Flasky.md",
-    "assets/img/sieste.png",
-    "assets/img/sieste-id.png",
-    "assets/img/sieste-das.png",
     "_posts/HackMyVm",
     "_tabs/about.md",
     "_posts/dockerlabs/2026-10-13-bigbank.md",
