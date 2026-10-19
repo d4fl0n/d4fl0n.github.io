@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/OSINT/2026-10-18-sofia-02.md",
+                "file": "_posts/dockerlabs/2026-10-19-ofuskeit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-18-sofia-02"
+              "title": "2026-10-19-ofuskeit"
             }
           }
         ]
@@ -190,21 +190,23 @@
   },
   "active": "5cc0eb68c9f4627b",
   "lastOpenFiles": [
+    "assets/img/ofuskeit.png",
+    "assets/img/ofuskeit-web.png",
+    "_posts/OSINT/2026-10-19-Sofia-032.md",
+    "_posts/dockerlabs/2026-10-19-ofuskeit.md",
+    "_posts/OSINT/2026-10-18-sofia-02.md",
+    "_posts/OSINT/2026-10-16-sofia-01.md",
     "assets/img/sofia-002.png",
     "assets/img/sofia-002-05.png",
     "assets/img/sofia-002-04.png",
     "assets/img/sofia-002-03.png",
     "assets/img/sofia-002-02.jpg",
-    "_posts/OSINT/2026-10-18-sofia-02.md",
-    "_posts/OSINT/2026-10-16-sofia-01.md",
     "_posts/HackMyVm/2026-10-15-grenade.md",
     "assets/img/grenade-b92.png",
     "_posts/HackMyVm/2026-10-17-Bitb.md",
     "assets/img/bitb.png",
     "assets/img/bitb-web7.png",
     "assets/img/bitb-web6.png",
-    "assets/img/bitb-web5.png",
-    "assets/img/bitb-web4.png",
     "_posts/HackMyVm/2026-10-15-sieste.md",
     "_tabs/about.md",
     "_posts/dockerlabs/2026-10-16-pressenter.md",
