@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/dockerlabs/2026-10-19-Rolarola.md",
+                "file": "_posts/HackMyVm/2026-10-21-Ledger.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-19-Rolarola"
+              "title": "2026-10-21-Ledger"
             }
           }
         ]
@@ -190,24 +190,26 @@
   },
   "active": "e8ae3394df0469bf",
   "lastOpenFiles": [
+    "_posts/HackMyVm/2026-10-17-Bitb.md",
+    "_posts/HackMyVm/2026-10-21-Ledger.md",
+    "assets/img/ledger.png",
+    "assets/img/ledger-we3.png",
+    "assets/img/ledger-web2.png",
+    "assets/img/ledger-web.png",
+    "_posts/HackMyVm/2026-10-14-echo.md",
+    "_posts/dockerlabs/2026-10-21-Insanity.md",
+    "_posts/OSINT/2026-10-19-Sofia-032.md",
+    "_posts/dockerlabs/2026-10-19-Rolarola.md",
     "assets/img/rolarola.png",
     "assets/img/rolarola-web3.png",
     "_posts/dockerlabs/2026-10-19-ofuskeit.md",
-    "_posts/dockerlabs/2026-10-19-Rolarola.md",
     "assets/img/rolarola-web2.png",
     "assets/img/rolarola-web.png",
     "assets/img/ofuskeit.png",
     "assets/img/ofuskeit-web.png",
-    "_posts/OSINT/2026-10-19-Sofia-032.md",
     "_posts/OSINT/2026-10-18-sofia-02.md",
     "_posts/OSINT/2026-10-16-sofia-01.md",
-    "assets/img/sofia-002.png",
-    "assets/img/sofia-002-05.png",
-    "assets/img/sofia-002-04.png",
-    "assets/img/sofia-002-03.png",
-    "assets/img/sofia-002-02.jpg",
     "_posts/HackMyVm/2026-10-15-grenade.md",
-    "_posts/HackMyVm/2026-10-17-Bitb.md",
     "_posts/HackMyVm/2026-10-15-sieste.md",
     "_tabs/about.md",
     "_posts/dockerlabs/2026-10-16-pressenter.md",
@@ -216,7 +218,6 @@
     "_posts/dockerlabs/2026-10-13-decompile.md",
     "_posts/dockerlabs/2026-10-13-acme.md",
     "_posts/HackMyVm/2026-10-14-pulse.md",
-    "_posts/HackMyVm/2026-10-14-echo.md",
     "_posts/dockerlabs/2026-10-13-Flasky.md",
     "_posts/HackMyVm",
     "_posts/dockerlabs/2026-10-13-bigbank.md",
