@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9c14366d18b6d0f0",
+        "id": "6f50d29429968f15",
         "type": "tabs",
         "children": [
           {
-            "id": "e8ae3394df0469bf",
+            "id": "486c04ca513db4a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/HackMyVm/2026-10-21-Ledger.md",
+                "file": "_posts/dockerlabs/2026-10-22-Novatech.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-21-Ledger"
+              "title": "2026-10-22-Novatech"
             }
           }
         ]
@@ -188,25 +188,28 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "e8ae3394df0469bf",
+  "active": "486c04ca513db4a7",
   "lastOpenFiles": [
-    "_posts/HackMyVm/2026-10-17-Bitb.md",
+    "_posts/dockerlabs/2026-10-21-Insanity.md",
+    "_posts/dockerlabs/2026-10-19-Rolarola.md",
+    "_posts/dockerlabs/2026-10-22-Novatech.md",
+    "assets/img/novatech.png",
+    "assets/img/novatech-web5.png",
+    "assets/img/novatech-web4.png",
+    "assets/img/novatech-web3.png",
+    "assets/img/novatech-web2.png",
+    "assets/img/novatech-web.png",
+    "_posts/HackersLabs/2026-10-21-EduClass.md",
+    "assets/img/educalsss.jpg",
+    "_posts/HackersLabs",
     "_posts/HackMyVm/2026-10-21-Ledger.md",
+    "_posts/HackMyVm/2026-10-17-Bitb.md",
     "assets/img/ledger.png",
     "assets/img/ledger-we3.png",
     "assets/img/ledger-web2.png",
-    "assets/img/ledger-web.png",
     "_posts/HackMyVm/2026-10-14-echo.md",
-    "_posts/dockerlabs/2026-10-21-Insanity.md",
     "_posts/OSINT/2026-10-19-Sofia-032.md",
-    "_posts/dockerlabs/2026-10-19-Rolarola.md",
-    "assets/img/rolarola.png",
-    "assets/img/rolarola-web3.png",
     "_posts/dockerlabs/2026-10-19-ofuskeit.md",
-    "assets/img/rolarola-web2.png",
-    "assets/img/rolarola-web.png",
-    "assets/img/ofuskeit.png",
-    "assets/img/ofuskeit-web.png",
     "_posts/OSINT/2026-10-18-sofia-02.md",
     "_posts/OSINT/2026-10-16-sofia-01.md",
     "_posts/HackMyVm/2026-10-15-grenade.md",
