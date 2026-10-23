@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/dockerlabs/2026-10-22-Novatech.md",
+                "file": "_posts/Vulnyx/2026-10-22-Wrapp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-22-Novatech"
+              "title": "2026-10-22-Wrapp"
             }
           }
         ]
@@ -190,23 +190,27 @@
   },
   "active": "486c04ca513db4a7",
   "lastOpenFiles": [
+    "assets/img/wrapp7.png",
+    "assets/img/wrapp-web06.png",
+    "assets/img/wrapp-web05.png",
+    "assets/img/wrapp-web02.png",
+    "assets/img/wrapp-web01-2.png",
+    "assets/img/wrapp-web01.png",
+    "assets/img/wrapp-web.png",
+    "assets/img/wrapp.png",
+    "assets/img/wrapp-web04.png",
+    "assets/img/wrapp-web03.png",
+    "_posts/dockerlabs/2026-10-22-Apicoffee.md",
+    "_posts/Vulnyx/2026-10-22-Wrapp.md",
+    "_posts/Vulnyx",
+    "_posts/dockerlabs/2026-10-22-Novatech.md",
     "_posts/dockerlabs/2026-10-21-Insanity.md",
     "_posts/dockerlabs/2026-10-19-Rolarola.md",
-    "_posts/dockerlabs/2026-10-22-Novatech.md",
     "assets/img/novatech.png",
-    "assets/img/novatech-web5.png",
-    "assets/img/novatech-web4.png",
-    "assets/img/novatech-web3.png",
-    "assets/img/novatech-web2.png",
-    "assets/img/novatech-web.png",
     "_posts/HackersLabs/2026-10-21-EduClass.md",
-    "assets/img/educalsss.jpg",
     "_posts/HackersLabs",
     "_posts/HackMyVm/2026-10-21-Ledger.md",
     "_posts/HackMyVm/2026-10-17-Bitb.md",
-    "assets/img/ledger.png",
-    "assets/img/ledger-we3.png",
-    "assets/img/ledger-web2.png",
     "_posts/HackMyVm/2026-10-14-echo.md",
     "_posts/OSINT/2026-10-19-Sofia-032.md",
     "_posts/dockerlabs/2026-10-19-ofuskeit.md",
