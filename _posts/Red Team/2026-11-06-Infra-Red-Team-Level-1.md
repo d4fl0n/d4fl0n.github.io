@@ -243,4 +243,4 @@ vérifions notre implante
 
 **Conclusion :** obfusquer le _contenu_ ne suffit pas. Tant que la cible parle en direct au C2, son IP est grillée et traçable. → motivation directe du niveau 2 (redirecteur).
 
-****Etape: install → listener → implant → delivery → session → shell → vérif.
+****Etape: install → listener → implant → delivery → session → shell → vérif....
