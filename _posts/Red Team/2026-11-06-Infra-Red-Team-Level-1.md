@@ -12,6 +12,7 @@ categories: Red Team
 Creator: d4fl0n
 image:
   path: /assets/img/silver-c2.png
+date: 2026-11-06
 ---
 
 nous allons commencé par créer notre répertoire `Tools`
