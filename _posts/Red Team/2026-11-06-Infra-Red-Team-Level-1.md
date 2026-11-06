@@ -2,7 +2,7 @@
 Titre: Infra Red Team Level 1
 tags:
   - C2
-  - silver
+  - sliver
 description: |-
   Faire revenir un premier beacon, en direct, sans rien entre l'implant et le team server. C'est volontairement le montage le plus simple possible : on veut voir le C2 fonctionner à nu avant d'apprendre à le cacher.
 
