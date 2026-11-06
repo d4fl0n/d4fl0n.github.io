@@ -31,7 +31,7 @@ nous allons commencé par créer notre répertoire `Tools`
 
 ```
 
-## Installation de C2 Silver
+## Installation de C2 Sliver
 
 ```bash
 ┌──(kali㉿kali)-[~]
@@ -193,7 +193,7 @@ connexion au sessions de la machine compromis
 [server] sliver (SWEET_DIVIDE) >
 ```
 
-shell interactive de la machine compromis
+shell interactive sur la machine compromis
 
 ```bash
 [server] sliver (SWEET_DIVIDE) > shell
