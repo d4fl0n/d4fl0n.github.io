@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/HackMyVm/2026-11-04-Venus.md",
+                "file": "_posts/Red Team/2026-11-06-Infra-Red-Team-Level-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-11-04-Venus"
+              "title": "2026-11-06-Infra-Red-Team-Level-1"
             }
           }
         ]
@@ -190,8 +190,15 @@
   },
   "active": "825746a4d1127f25",
   "lastOpenFiles": [
-    "assets/img/venus.png",
+    "assets/img/sliver-c2.png",
+    "assets/img/redteam03.png",
+    "_posts/Red Team/Mythic.md",
+    "_posts/Red Team/2026-11-06-Infra-Red-Team-Level-1.md",
+    "_posts/HackMyVm/Hades.md",
+    "assets/img/hades02.png",
     "_posts/HackMyVm/2026-11-04-Venus.md",
+    "_posts/Red Team",
+    "assets/img/venus.png",
     "_posts/HackersLabs/2026-11-02-Escalera.md",
     "_posts/OSINT/2026-11-04-sofia-03.md",
     "_posts/OSINT/2026-10-18-sofia-02.md",
@@ -202,11 +209,8 @@
     "assets/img/sofia-003-03.png",
     "assets/img/sofia-003-02.png",
     "assets/img/sofia-003-01.png",
-    "assets/img/sofia-003.png",
     "_posts/OSINT/2026-10-16-sofia-01.md",
     "_posts/OSINT/2026-10-19-Sofia-032.md",
-    "assets/img/venus02.png",
-    "assets/img/eloise.jpg",
     "_posts/HackMyVm/2026-11-03-Madlabs.md",
     "_posts/HackMyVm/Labs",
     "_posts/Operation Red Team.md",
@@ -227,14 +231,10 @@
     "_posts/dockerlabs/2026-10-26-MicroBug.md",
     "_posts/HackersLabs/2026-10-24-Achinech.md",
     "_posts/HackMyVm/2026-10-14-echo.md",
-    "_posts/HackersLabs/2026-10-21-EduClass.md",
-    "_posts/Vulnyx/2026-10-22-Wrapp.md",
-    "_posts/dockerlabs/2026-10-22-Apicoffee.md",
     "_posts/Vulnyx",
     "_posts/HackersLabs",
     "_posts/OSINT",
     "_posts/HackMyVm",
-    "_posts/dockerlabs",
     "_posts/dockerlabs"
   ]
 }
