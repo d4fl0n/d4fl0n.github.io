@@ -11,7 +11,7 @@ niveau: facile
 categories: Red Team
 Creator: d4fl0n
 image:
-  path: /assets/img/silver-c2.png
+  path: /assets/img/sliver-c2.png
 date: 2026-11-06
 ---
 
