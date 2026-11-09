@@ -22,6 +22,7 @@ Ce blog rassemble mes **writeups de CTF** et mes notes techniques : énumératio
 
   
 
+Avertissement. Tout ce qui suit est réalisé dans un lab personnel isolé (VirtualBox, réseau sans accès à Internet ni à un réseau tiers). Aucune machine réelle n'est visée. Ces techniques sont documentées à des fins d'apprentissage défensif et d'émulation d'adversaire. Ne les utilisez que sur une infrastructure que vous possédez ou pour laquelle vous avez une autorisation écrite. {: .prompt-danger }
 ---
 
   
