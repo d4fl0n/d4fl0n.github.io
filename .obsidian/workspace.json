@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/dockerlabs/2026-11-08-noctis.md",
+                "file": "_posts/Red Team/2026-11-07-Infra-Red-Team-Level-2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-11-08-noctis"
+              "title": "2026-11-07-Infra-Red-Team-Level-2"
             }
           }
         ]
@@ -190,6 +190,9 @@
   },
   "active": "d00cd3b8ae2b0d62",
   "lastOpenFiles": [
+    "assets/img/redteam.png",
+    "_posts/Vulnyx/2026-11-09-BrokenTusk.md",
+    "_posts/dockerlabs/2026-11-08-noctis.md",
     "assets/img/dockerlabs.png",
     "assets/img/noctis-web17.png",
     "assets/img/noctis-web16.png",
@@ -200,11 +203,8 @@
     "assets/img/noctis-web11.png",
     "assets/img/noctis-web10.png",
     "assets/img/noctis-web09.png",
-    "assets/img/noctis-web08.png",
     "assets/img/noctis-web0.md",
-    "_posts/dockerlabs/2026-11-08-noctis.md",
     "assets/img/noctis-web07.md",
-    "_posts/Vulnyx/2026-11-08-BrokenTusk.md",
     "_posts/HackersLabs/nexus.md",
     "_posts/Red Team/2026-11-07-Infra-Red-Team-Level-2.md",
     "_posts/Red Team/2026-11-06-Infra-Red-Team-Level-1.md",
